@@ -1,0 +1,32 @@
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\bin\Debug\BDProject.exe.config
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\bin\Debug\BDProject.exe
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\bin\Debug\BDProject.pdb
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.Form1.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.exe
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject\BDProject\obj\Debug\BDProject.pdb
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\bin\Debug\BDProject.exe.config
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\bin\Debug\BDProject.exe
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\bin\Debug\BDProject.pdb
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.Form1.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.exe
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.pdb
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2)\BDProject\obj\Debug\BDProject.LoginForm.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\bin\Debug\BDProject.exe.config
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\bin\Debug\BDProject.exe
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\bin\Debug\BDProject.pdb
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.Form1.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.LoginForm.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.exe
+C:\Users\Lenovo\Desktop\ГУАП\4 курс\7 сем\бд\курсовая\BDProject — копия (2) — копия\BDProject\obj\Debug\BDProject.pdb
